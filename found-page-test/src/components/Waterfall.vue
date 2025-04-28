@@ -212,6 +212,7 @@ onUnmounted(() => {
 .waterfall {
   display: flex;
   gap: 10px;
+  padding: 6px;
 }
 
 .waterfall-column {
